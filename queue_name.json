@@ -1,0 +1,853 @@
+[
+    {
+        "name": "Preet",
+        "to": "+918347141878",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:50:34",
+        "sent_at": "2026-02-02 11:50:35"
+    },
+    {
+        "name": "Ravikant",
+        "to": "+917096291214",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:50:34",
+        "sent_at": "2026-02-02 11:51:35"
+    },
+    {
+        "name": "Mehul",
+        "to": "+919601102505",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:50:34",
+        "sent_at": "2026-02-02 11:52:36"
+    },
+    {
+        "name": "Om Clinic",
+        "to": "+919825165045",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 11:56:38"
+    },
+    {
+        "name": "EVE Women's",
+        "to": "+919825028044",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "failed",
+        "attempt": 1,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr Shyam Verma",
+        "to": "+919824981863",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 2,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 11:58:39"
+    },
+    {
+        "name": "Dr.Venu Ophthalmologist",
+        "to": "+919824252667",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 11:59:40"
+    },
+    {
+        "name": "Dr. Ashish Dodiya Spine Surgeon Vadodara",
+        "to": "+919824230923",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:00:40"
+    },
+    {
+        "name": "Flexicare physiotherapy clinic",
+        "to": "+919824107032",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:01:41"
+    },
+    {
+        "name": "Skin360 Clinic (Karelibaug) by Dr. Rushabh Shah",
+        "to": "+919824057100",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:02:41"
+    },
+    {
+        "name": "Dr Venkat Iyer",
+        "to": "+919824034476",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "failed",
+        "attempt": 1,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Vandana Hospital",
+        "to": "+919791008002",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 2,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:04:42"
+    },
+    {
+        "name": "OMT Sangita Shinde",
+        "to": "+919773286731",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:05:42"
+    },
+    {
+        "name": "Chir-Ayu Children Hospital - Paediatrician\/Child Specialist\/Children Friendly Hospital in Vadodara",
+        "to": "+919737830777",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:06:43"
+    },
+    {
+        "name": "Image cosmetic clinic || Best Skin Care Clinic, Cosmetic Clinic, Skin Treatment, Laser Centre",
+        "to": "+919737592333",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:07:43"
+    },
+    {
+        "name": "Shree Hari Dental Care",
+        "to": "+919737463508",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:08:44"
+    },
+    {
+        "name": "Dr. Smruti Patel (Gandhi) - Pediatric Neurologist, Vadodara",
+        "to": "+919727816476",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:09:44"
+    },
+    {
+        "name": "Aashray Children Hospital",
+        "to": "+919727757210",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:10:45"
+    },
+    {
+        "name": "RANESHWAR MULTISPECIALITY HOSPITAL",
+        "to": "+919727752312",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:11:45"
+    },
+    {
+        "name": "Dr Smit Sikligar - Happy Kids And Family Dental Clinic Vadodara MDS PEDIATRIC DENTIST |Children dentist|",
+        "to": "+919727720774",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:12:46"
+    },
+    {
+        "name": "The Creative Touch Salon",
+        "to": "+919727552951",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:13:46"
+    },
+    {
+        "name": "Swayam Eye Hospital And Retina Centre | Retina Surgery | Eye Specialist In Vadodara",
+        "to": "+919727326411",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:14:47"
+    },
+    {
+        "name": "Rituma Clinic",
+        "to": "+919726641444",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "failed",
+        "attempt": 1,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Krishna ENT and Skin Hospital-Nizampura Vadodara",
+        "to": "+919726079708",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "failed",
+        "attempt": 3,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Om Clinic (Dr.Dipika A. Chauhan)",
+        "to": "+919725671308",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 2,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:17:48"
+    },
+    {
+        "name": "\"Little Brain\" Pediatric Neurocare Centre- Dr Vishal Patel (Pediatric Neurologist)",
+        "to": "+919725620344",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:18:49"
+    },
+    {
+        "name": "Lifeline Clinic (201\/203) gangotri icon",
+        "to": "+919725038281",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:19:49"
+    },
+    {
+        "name": "Arnika Children & Family care Hospital (Dr. Ankit Modh)",
+        "to": "+919723605960",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:20:50"
+    },
+    {
+        "name": "Hari Om Clinic",
+        "to": "+919714855996",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "failed",
+        "attempt": 1,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Hema Aayu Clinic",
+        "to": "+919714797502",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 1,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:22:51"
+    },
+    {
+        "name": "Vraj Children Hospital. Dr Bankim Parikh",
+        "to": "+919714506721",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:23:52"
+    },
+    {
+        "name": "Dr Vyas Cure & Care Clinic",
+        "to": "+919714483286",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "sent",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37",
+        "sent_at": "2026-02-02 12:24:52"
+    },
+    {
+        "name": "Gunjan Children Hospital",
+        "to": "+919714401870",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Little Star Children's Hospital",
+        "to": "+919712967940",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Ohm Child Care Clinic and Vaccination Center",
+        "to": "+919712950017",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Pragnesh Mehta Psychologist",
+        "to": "+919712903369",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "VADODARA RETINA CARE EYE HOSPITAL",
+        "to": "+919712347274",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Jayamrut Hospital (Amrut child care \/ Ruchi Dental care \/ Allergic Clinic \/ Vaccination Center)",
+        "to": "+919702013062",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Atharva Skin & Mind Clinic",
+        "to": "+919687693940",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Nirav Jetani",
+        "to": "+919687622229",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "SIDDHI CHILDREN CLINIC DR.PARUL CHAUHAN",
+        "to": "+919687503255",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Het Children Hospital & Vaccination Center",
+        "to": "+919662825232",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Physio World - Best Physiotherapy Clinic in Vadodara",
+        "to": "+919662369685",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Sai Krupa Clinic",
+        "to": "+919662050482",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Cutis Skin Clinic",
+        "to": "+919638524705",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Saikrupa Clinic",
+        "to": "+919637512643",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Aum Skin Hair laser Clinic - Dr. Gunjan Modi",
+        "to": "+919624517000",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr Himani Patel, Fertility Consultant, NOVA WINGS IVF Centre",
+        "to": "+919606780269",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shreeji Clinic",
+        "to": "+919601949720",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Maa Children Hospital, Dental Care & Vaccination Center",
+        "to": "+919586998398",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Seven Colors Children Hospital",
+        "to": "+919586911107",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shobhana Menon",
+        "to": "+919586838051",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "DR. PRIYA'S CLINIC",
+        "to": "+919574388848",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "House of Aesthetics by Dr. Manali Patel",
+        "to": "+919574214409",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Spandan ENT Hospital",
+        "to": "+919558907247",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "The Ultimate Hair Transplant Studio",
+        "to": "+919558814216",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Adarsh Clinic",
+        "to": "+919537973737",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shriji Clinic",
+        "to": "+919537835317",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Palash Surgical & Maternity Hospital",
+        "to": "+919537529067",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Psindia",
+        "to": "+919537510055",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Vision Child Behaviour, Occupational and Speech Counselling Center",
+        "to": "+919512553184",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Dipen Agrawal - Niramay Gastro & Liver Care",
+        "to": "+919512290087",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shree Clinic and Diabetes Centre",
+        "to": "+919512202088",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "iCure Diet Clinic by Dietitian Krishna",
+        "to": "+919512003000",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shukan Multi-Speciality Hospital & Trauma Center",
+        "to": "+919510706706",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Jalaram Clinic - Dr Prakash Dasa & Dr Bhumi Dasa",
+        "to": "+919510698767",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Trinity Child Development Center",
+        "to": "+919510392815",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Avani Women's Hospital",
+        "to": "+919510392422",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Ankur Children Hospital",
+        "to": "+919499628446",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Anjor Children Clinic",
+        "to": "+919429970696",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Preeta's Health & Wellness Institute",
+        "to": "+919429846425",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Harish Kodnani",
+        "to": "+919429808410",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Hada Dental and Orthodontic Clinic",
+        "to": "+919429559687",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Harni Hospital - Multi-Speciality Hospital",
+        "to": "+919429376885",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Vraj Clinic - Dr Neha Bhavsar & Dr Sanket Prajapati",
+        "to": "+919429235790",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "MyPediaCare Infection Clinic",
+        "to": "+919428623020",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Samir Hospital",
+        "to": "+919428522410",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr Parita Pandya - ENT Specialist",
+        "to": "+919428424298",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "UMAS Beauty Studio",
+        "to": "+919428305867",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Bhilapur Wala Clinic",
+        "to": "+919428302818",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Kiran Clinic",
+        "to": "+919428301600",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "\u0ab0\u0abe\u0aae\u0abe \u0a95\u0acd\u0ab2\u0abf\u0aa8\u0abf\u0a95 - \u0aa1\u0acb. \u0a9c\u0acd\u0aaf\u0acb\u0aa4\u0acd\u0ab8\u0aa8\u0abe \u0aac\u0ac0 \u0aaa\u0a9f\u0ac7\u0ab2",
+        "to": "+919428300478",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shree Hospital & Maternity Home",
+        "to": "+919428187303",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Aanandmay | Shweta Patel - Psychologist",
+        "to": "+919428168022",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Yogeshwar Clinic",
+        "to": "+919427935075",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Tvacha Clinic",
+        "to": "+919427592888",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr Rahul Shukla - Shri Ram Clinic",
+        "to": "+919427590190",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Shiv Clinic",
+        "to": "+919427518122",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "S.R. Dental Clinic",
+        "to": "+919427398791",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Matrutva Hospital",
+        "to": "+919427324658",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Tulsi Skin Hair Obesity Clinic",
+        "to": "+919427324247",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Krisha Hospital Vadodara",
+        "to": "+919426942709",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr Dhwani Thakkar MD Physician (Pulse Clinic)",
+        "to": "+919426905099",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Vatsalya Children Hospital & Shruti ENT Hospital",
+        "to": "+919426904803",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Rajat Oswal",
+        "to": "+919426886276",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Krishna Skin Clinic (Dr Jatin Kanjariya)",
+        "to": "+919426852332",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Jivandeep Clinic",
+        "to": "+919426594335",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Wellbeing Healthcare",
+        "to": "+919426513107",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Fairness Skin Clinic - Dr Nikhil Hari",
+        "to": "+919426371798",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Yashoda Clinic",
+        "to": "+919426350112",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Ashvin Shah",
+        "to": "+919426334955",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Amish Mehta's Chandan Dental",
+        "to": "+919426330762",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    },
+    {
+        "name": "Dr. Archana's Skin Care Clinic",
+        "to": "+919426270479",
+        "template": "Hi [[fullname]],\r\n\r\nQuick check before we share anything.\r\n\r\nTo generate real leads for local businesses today,\r\nmarketing usually needs:\r\n\r\n\u2022 Monthly execution\r\n\u2022 Some ad budget support\r\n\r\nAre you currently open to investing to grow enquiries,\r\nor just exploring ideas?\r\n\r\nReply:\r\n1\ufe0f\u20e3 Open to invest\r\n2\ufe0f\u20e3 Just exploring",
+        "status": "pending",
+        "attempt": 0,
+        "added_at": "2026-02-02 11:56:37"
+    }
+]

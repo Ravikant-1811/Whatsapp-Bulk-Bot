@@ -13,6 +13,7 @@ set_time_limit(0);
 ini_set('max_execution_time', 0);
 
 require 'vendor/autoload.php';
+require __DIR__ . '/lib/settings.php';
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
@@ -21,8 +22,14 @@ use GuzzleHttp\Exception\RequestException;
    CONFIG
 =========================== */
 
-$apiKey = trim('97295e63d4521ada27c283dcc03e56e4f3894576ca5e185607453ad2c8d05bca');
-$url    = 'https://www.wasenderapi.com/api/send-message';
+$settings = get_settings();
+$apiKey = trim($settings['api_key'] ?? '');
+$url    = $settings['api_url'] ?? 'https://www.wasenderapi.com/api/send-message';
+
+if ($apiKey === '') {
+    echo "🚫 Missing API key. Set WASENDER_API_KEY env var or save it in dashboard settings.\n";
+    exit(1);
+}
 
 $queueFile = __DIR__ . '/queue_name.json';
 

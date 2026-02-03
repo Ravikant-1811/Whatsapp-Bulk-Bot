@@ -1,0 +1,44 @@
+[
+    {
+        "id": "617fc2be426330e88dcd787e83a9a245",
+        "campaign_id": "b9e722fe4e45dc90ddfb7b81dfa0c9d9",
+        "day_of_week": "tue",
+        "time": "12:50",
+        "timezone": "UTC",
+        "enabled": false,
+        "last_run_at": null,
+        "created_at": "2026-02-03 07:19:45",
+        "updated_at": "2026-02-03 07:21:04"
+    },
+    {
+        "id": "73d66507af44066ecfd9dd3a39f79a48",
+        "campaign_id": "b9e722fe4e45dc90ddfb7b81dfa0c9d9",
+        "day_of_week": "mon",
+        "time": "12:51",
+        "timezone": "IST",
+        "enabled": false,
+        "last_run_at": null,
+        "created_at": "2026-02-03 07:20:56",
+        "updated_at": "2026-02-03 07:21:02"
+    },
+    {
+        "id": "fc8d1f5bb77344cbaa1f573b70222f7e",
+        "campaign_id": "b9e722fe4e45dc90ddfb7b81dfa0c9d9",
+        "day_of_week": "tue",
+        "time": "12:52",
+        "timezone": "UTC",
+        "enabled": true,
+        "last_run_at": null,
+        "created_at": "2026-02-03 07:21:15"
+    },
+    {
+        "id": "270ea10e3219d9520e461bb494a35c87",
+        "campaign_id": "b9e722fe4e45dc90ddfb7b81dfa0c9d9",
+        "day_of_week": "tue",
+        "time": "12:52",
+        "timezone": "IST",
+        "enabled": true,
+        "last_run_at": null,
+        "created_at": "2026-02-03 07:21:27"
+    }
+]

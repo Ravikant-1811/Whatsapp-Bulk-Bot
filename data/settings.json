@@ -1,0 +1,9 @@
+{
+    "api_url": "https:\/\/www.wasenderapi.com\/api\/send-message",
+    "api_key": "97295e63d4521ada27c283dcc03e56e4f3894576ca5e185607453ad2c8d05bca",
+    "min_delay_seconds": 45,
+    "max_delay_seconds": 90,
+    "send_window_start": "09:00",
+    "send_window_end": "20:00",
+    "daily_limit": 99
+}

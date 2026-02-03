@@ -1,0 +1,13 @@
+[
+    {
+        "id": "b9e722fe4e45dc90ddfb7b81dfa0c9d9",
+        "name": "TEST",
+        "template": "HI",
+        "contact_ids": [
+            "8e3afce5563bced272e57974c2aa9596"
+        ],
+        "enabled": false,
+        "created_at": "2026-02-03 07:19:15",
+        "updated_at": "2026-02-03 07:22:41"
+    }
+]

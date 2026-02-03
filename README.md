@@ -1,9 +1,10 @@
 # Whatsapp-Bulk-Bot
 
-A lightweight WhatsApp bulk messaging tool with a web dashboard, weekly scheduling, and safe-send controls.
+A lightweight WhatsApp bulk messaging tool with a multi-page dashboard, weekly scheduling, and safe-send controls.
 
 ## Features
-- Web dashboard for settings, contacts, campaigns, schedules, and queue monitoring
+- Multi-page dashboard with sidebar navigation
+- Settings, contacts, campaigns, schedules, queue, safety, templates, and reports
 - Weekly automation via `scheduler.php`
 - Safer sending via `worker.php` (randomized delays, send window, daily cap, rate-limit backoff)
 - CSV upload + manual contact entry
@@ -45,5 +46,8 @@ Priya,+919xxxxxxxxx
 
 ## Notes
 - Use opt-in contacts only and keep limits conservative.
-- `send_msg_name.php` and `send_msg_number.php` now read API settings from the dashboard or env vars.
+- `send_msg_name.php` and `send_msg_number.php` read API settings from the dashboard or env vars.
+
+## License
+Licensed under the Apache License 2.0. See `LICENSE` and `NOTICE`.
 
